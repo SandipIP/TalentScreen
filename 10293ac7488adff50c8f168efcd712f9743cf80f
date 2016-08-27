@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_1f7683d8",
+        "filename": "package.json",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1009070
+      },
+      "writtenOn": "2016-08-27T05:51:53Z",
+      "side": 1,
+      "message": "good",
+      "revId": "10293ac7488adff50c8f168efcd712f9743cf80f",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}

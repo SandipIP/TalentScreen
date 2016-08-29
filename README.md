@@ -3,7 +3,5 @@
 #description
 
 #title
-
 #moral
-
 #jenkins
